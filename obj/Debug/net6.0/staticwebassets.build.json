@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IGc/XYgiOIzl6WS3tzsJcVgOrNndGTucFhMir7KojXc=",
+  "Source": "CI-CD-kedja",
+  "BasePath": "_content/CI-CD-kedja",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
